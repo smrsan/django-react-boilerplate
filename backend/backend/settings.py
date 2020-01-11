@@ -130,5 +130,5 @@ STATIC_URL = '/static/'
 
 # We whitelist localhost:3000 because that's where frontend will be served
 CORS_ORIGIN_WHITELIST = (
-    'localhost:3000/'
+    'localhost:3000/',
 )
